@@ -1,0 +1,24 @@
+{
+	"name":"haokan1113/tst",
+	"description":"测试",
+	"type":"library",
+	"license":"MIT",
+	"authors":[
+		{
+			"name":"1312167352",
+			"email":"1312167352@qq.com"
+		}
+	],
+	"minimum-stability":"dev",
+	"autoload":{
+		"files":[
+			"demo.php"
+		]
+	},
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://packagist.phpcomposer.com"
+		}
+	}
+}
